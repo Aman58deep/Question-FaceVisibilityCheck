@@ -14,6 +14,12 @@
 The Face details are fetched using ml5's face api and the capture element for webcam input is prepared using p5.js's createCapture functionality (which creates a dom video element with wem cam input into it.
 The home page here is a peek on my freelancing profile on fiverr.
 
+**LIVE HOSTED LINK**
+https://face-position-validator-in-react.pages.dev/
+
+**VIDEO DEMONSTATION**
+https://drive.google.com/file/d/1fsctigAI_ptRGCPQeNq2Bz0f5ccsjiCD/view?usp=sharing
+
 Submission:
 1. Upload the code in github public repository and keep the share the link ready.
 2. Create a demonstration video, upload it in google drive and keep the share the link ready.
