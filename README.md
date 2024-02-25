@@ -8,8 +8,9 @@
   1. It is a front end based project and therefore backend is required to be made separately. 
   2. You can use Opensource Api's for the completion of the task.
   3. If you are a fullstack developer and want to create the your backend for it then you can proceed with that.
-  4. The app should be based upon dynamic resolution.
-"
+  4. The app should be based upon dynamic resolution."
+
+
 The Face details are fetched using ml5's face api and the capture element for webcam input is prepared using p5.js's createCapture functionality (which creates a dom video element with wem cam input into it.
 The home page here is a peek on my freelancing profile on fiverr.
 
